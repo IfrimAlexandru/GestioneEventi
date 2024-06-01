@@ -8,7 +8,7 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>nextDevs</groupId>
+	<groupId>it.nextdevs</groupId>
 	<artifactId>GestioneEventi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>GestioneEventi</name>
@@ -16,7 +16,6 @@
 	<properties>
 		<java.version>22</java.version>
 	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
